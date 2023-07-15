@@ -1,0 +1,11 @@
+
+
+
+- Terminator files
+- Nvim config files
+- Bashrc file
+- zsh configs (.zshrc and oh-my-zsh files)
+- ssh keys
+- browser bookmarks
+
+
