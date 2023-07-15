@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:penhauer/Neovim-configs.git
+[submodule "SuperSecret"]
+	path = SuperSecret
+	url = git@github.com:penhauer/SuperSecret.git
